@@ -1,6 +1,4 @@
-# XCraft
-XCraft is a very powerful tool intended to make adminastration of [Minecraft Servers][minecraft server site] easier and more intuitive.
-You can find more info about XCraft and it's uses at [https://xcraftmc.github.io](https://xcraftmc.github.io).
-
-[minecraft server site]: https://xcraftmc.github.io/redirect/mcservers.html
+# XCraft | src Branch
+This branch is used to host the true, uncompiled code of XCraft. Feel free to download from [our ftp site](https://xcraftmc.github.io/ftp/root/archives.html) and click on src-_[VERSION]_.zip. You can also clone it using `git clone --branch src`
+to clone this entire branch.
 
