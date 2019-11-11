@@ -1,9 +1,16 @@
+
+
 /* Navigator styles */
 nav {
 	text-align: center;
 	color: white;
 	background-color: #007;
 	font-family: sans-serif;
+}
+
+nav * {
+	margin: 5px 5px 3px 3px;
+	padding: 3px;
 }
 
 nav h3 {
