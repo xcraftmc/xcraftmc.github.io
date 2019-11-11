@@ -1,0 +1,13 @@
+/* Navigator styles */
+nav {
+	text-align: center;
+	color: white;
+	background-color: #007;
+}
+
+nav a {
+	padding: 3px;
+	border: 1px solid white;
+	border-radius: 4px;
+	text-decoration: none;
+}
