@@ -3,6 +3,11 @@ nav {
 	text-align: center;
 	color: white;
 	background-color: #007;
+	font-family: sans-serif;
+}
+
+nav h3 {
+	display: inline;
 }
 
 nav a {
@@ -10,4 +15,5 @@ nav a {
 	border: 1px solid white;
 	border-radius: 4px;
 	text-decoration: none;
+	color: white;
 }
